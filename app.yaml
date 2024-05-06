@@ -1,2 +1,2 @@
 runtime: nodejs18
-service: app2
+service: fe-driver
